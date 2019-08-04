@@ -36,9 +36,11 @@ Here are a few sample questions to answer:
 
 
 ### Files used
+
 dvd-rental-erd-2.pdf
+
 sql-project-submission.pdf
 
 ### Credits
-
+Udacity
 
